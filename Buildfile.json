@@ -1,0 +1,9 @@
+{
+   "projects" : [
+      {
+         "base_dir" : ".",
+         "build_dir" : "{{bin}}",
+         "name" : "open-file"
+      }
+   ]
+}
